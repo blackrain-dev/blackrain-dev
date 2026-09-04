@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**blackrain-dev/blackrain-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌧️ BLACK RAIN
 
-Here are some ideas to get you started:
+### `CODE • CREATE • CONQUER`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer+%7C+Programmer;Building+Ideas+Into+Reality;Welcome+To+Black+Rain+%F0%9F%8C%A7%EF%B8%8F" />
+
+</div>
+
+---
+
+## 🖤 About Me
+
+```text
+💻 Developer & Programmer
+⚡ Building creative projects
+🌑 Passionate about technology
+🚀 Always learning and improving
