@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,45:080808,75:111111,100:000000&text=☁%20BLACKRAIN%20☁&fontSize=48&fontColor=ffffff&fontAlignY=43&desc=developer%20%2F%2F%20builder%20%2F%2F%20learner&descColor=777777&descSize=15&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:050505,70:111111,100:000000&height=220&section=header&text=BLACKRAIN&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=DEVELOPER%20%2F%2F%20BUILDER%20%2F%2F%20LEARNER&descSize=14&descColor=777777&descAlignY=67" width="100%">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=turning+ideas+into+code.;building+things+from+scratch.;learning+by+doing.;welcome+to+BLACKRAIN." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=building+things+from+scratch.;turning+ideas+into+code.;learning+by+breaking+things.;one+project+at+a+time." alt="Typing">
 
 <br><br>
 
@@ -16,13 +16,13 @@
 
 ## `about`
 
-I'm a developer who enjoys building things from scratch.
+I'm a developer who likes building things from scratch.
 
 I work with web development, automation, Python, Telegram bots,
 databases and system experiments.
 
-I learn by building, breaking things, understanding why they broke,
-and making them better.
+I learn by making things, breaking them, figuring out why,
+and building them again.
 
 ---
 
@@ -30,7 +30,7 @@ and making them better.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,cs,java,bash&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,cs,java,bash&perline=10" alt="Languages">
 
 </div>
 
@@ -40,7 +40,7 @@ and making them better.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,sqlite&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,sqlite&perline=6" alt="Tools">
 
 </div>
 
@@ -48,18 +48,18 @@ and making them better.
 
 ## `focus`
 
-| Area | Focus |
-| :--- | :--- |
+| Area | What I build |
+| --- | --- |
 | `WEB` | Frontend · Backend · Applications |
-| `AUTOMATION` | Scripts · Workflows · Tools |
+| `AUTOMATION` | Scripts · Tools · Workflows |
 | `TELEGRAM` | Bots · Automation · Management |
 | `PYTHON` | Utilities · Projects · Experiments |
 | `DATABASE` | SQL · MySQL · SQLite |
-| `SYSTEMS` | Linux · CLI · Environments |
+| `SYSTEMS` | Linux · CLI · Experiments |
 
 ---
 
-## `now`
+## `currently`
 
 ```text
 learning          ████████████████████
@@ -71,29 +71,25 @@ improving         ████████████████████
 
 "github"
 
-<div align="center"><a href="https://github.com/blackrain-dev">
-<img src="https://github-readme-stats.vercel.app/api?username=blackrain-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&rank_icon=github" width="430"/>
-</a><br><br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=blackrain-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&rank_icon=github" width="430" alt="GitHub Stats"><br><br>
 
-<a href="https://github.com/blackrain-dev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrain-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=8" width="350"/>
-</a></div>---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrain-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=8" width="350" alt="Top Languages"></div>---
 
 "projects"
 
-I build things that solve problems,
-automate repetitive work, or simply answer a question I had.
+I build projects to solve problems, automate repetitive work,
+and explore ideas that interest me.
 
-01  web
-02  automation
-03  telegram
-04  python
-05  systems
-06  experiments
+web
+automation
+telegram
+python
+systems
+experiments
 
-<div align="center">"explore repositories →" (https://github.com/blackrain-dev?tab=repositories)
-
-</div>---
+<div align="center"><a href="https://github.com/blackrain-dev?tab=repositories">
+View all repositories →
+</a></div>---
 
 "terminal"
 
@@ -110,14 +106,14 @@ blackrain@github:~$ _
 
 ---
 
-<div align="center">"BLACKRAIN"
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:151515,45:090909,75:030303,100:000000&height=130&section=footer" width="100%">"BLACKRAIN"
 
 "build quietly. keep learning."
 
-<br><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:151515,50:080808,100:000000&section=footer"/></div><!--
-    BLACKRAIN // DEV
-    blackrain-dev
+<br><sub>blackrain-dev · 2026</sub>
 
+</div><!--
+    BLACKRAIN
     no noise.
     just code.
 -->
