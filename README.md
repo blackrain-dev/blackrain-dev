@@ -1,97 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:050505,70:111111,100:000000&height=220&section=header&text=BLACKRAIN&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=DEVELOPER%20%2F%2F%20BUILDER%20%2F%2F%20LEARNER&descSize=14&descColor=777777&descAlignY=67" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:0b0b0b,100:161616&text=BLACKRAIN&fontSize=52&fontColor=ffffff&fontAlignY=48&desc=DEVELOPER%20%2F%2F%20BUILDER%20%2F%2F%20LEARNER&descSize=14&descColor=777777&descAlignY=70" width="100%">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=building+things+from+scratch.;turning+ideas+into+code.;learning+by+breaking+things.;one+project+at+a+time." alt="Typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=building+things+from+scratch;turning+ideas+into+code;learning+by+doing;blackrain-dev" alt="Typing">
 
 <br><br>
 
-`blackrain-dev`
+`BLACKRAIN`
 
 </div>
 
 ---
 
-## `about`
+## about
 
-I'm a developer who likes building things from scratch.
+I like building things from scratch.
 
-I work with web development, automation, Python, Telegram bots,
-databases and system experiments.
+Web projects, automation, Python tools, Telegram bots,
+databases and random experiments that start with a simple idea.
 
-I learn by making things, breaking them, figuring out why,
-and building them again.
+I learn by actually making things.
 
 ---
 
-## `languages`
+## stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,cs,java,bash&perline=10" alt="Languages">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,cs,java,bash,git,github,linux,vscode,mysql,sqlite&perline=8" alt="Tech stack">
 
 </div>
 
 ---
 
-## `tools`
+## what I build
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,sqlite&perline=6" alt="Tools">
-
-</div>
-
----
-
-## `focus`
-
-| Area | What I build |
+| | |
 | --- | --- |
-| `WEB` | Frontend · Backend · Applications |
-| `AUTOMATION` | Scripts · Tools · Workflows |
-| `TELEGRAM` | Bots · Automation · Management |
-| `PYTHON` | Utilities · Projects · Experiments |
-| `DATABASE` | SQL · MySQL · SQLite |
-| `SYSTEMS` | Linux · CLI · Experiments |
+| **WEB** | Frontend · Backend · Applications |
+| **AUTOMATION** | Scripts · Tools · Workflows |
+| **TELEGRAM** | Bots · Automation · Management |
+| **PYTHON** | Utilities · Projects · Experiments |
+| **DATABASE** | SQL · MySQL · SQLite |
+| **SYSTEMS** | Linux · CLI · Experiments |
 
 ---
 
-## `currently`
+## currently
 
 ```text
-learning          ████████████████████
-building          ███████████████████░
-experimenting     ██████████████████░░
-improving         ████████████████████
+learning       ████████████████████
+building       ███████████████████░
+experimenting  ██████████████████░░
+improving      ████████████████████
 
 ---
 
-"github"
+projects
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=blackrain-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&rank_icon=github" width="430" alt="GitHub Stats"><br><br>
+I build projects to solve problems,
+automate repetitive work and explore ideas.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrain-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=8" width="350" alt="Top Languages"></div>---
+"→ view repositories" (https://github.com/blackrain-dev?tab=repositories)
 
-"projects"
+---
 
-I build projects to solve problems, automate repetitive work,
-and explore ideas that interest me.
-
-web
-automation
-telegram
-python
-systems
-experiments
-
-<div align="center"><a href="https://github.com/blackrain-dev?tab=repositories">
-View all repositories →
-</a></div>---
-
-"terminal"
+terminal
 
 blackrain@github:~$ ./blackrain
 
@@ -106,14 +82,14 @@ blackrain@github:~$ _
 
 ---
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:151515,45:090909,75:030303,100:000000&height=130&section=footer" width="100%">"BLACKRAIN"
+github
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=blackrain-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&rank_icon=github" width="430" alt="GitHub stats"><br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrain-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=8" width="350" alt="Top languages"></div>---
+
+<div align="center">"BLACKRAIN"
 
 "build quietly. keep learning."
 
-<br><sub>blackrain-dev · 2026</sub>
-
-</div><!--
-    BLACKRAIN
-    no noise.
-    just code.
--->
+<br><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:161616,50:080808,100:000000&section=footer" width="100%"></div><!-- blackrain-dev -->
