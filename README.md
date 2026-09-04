@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,40:0a0a0a,100:111111&text=BLACKRAIN&fontSize=52&fontColor=e8e8e8&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20BUILDER&descSize=13&descColor=777777&descAlignY=62" width="100%" alt="BLACKRAIN">
@@ -40,14 +39,12 @@ Prefer understanding how things work under the surface, then making them better.
 
 ### 03 — what I build
 
-```
-WEB          ████████████████████
+<pre><code>WEB          ████████████████████
 AUTOMATION   ███████████████████░
 TELEGRAM     ██████████████████░░
 PYTHON       ████████████████████
 DATABASE     █████████████████░░░
-SYSTEMS      ████████████████░░░░
-```
+SYSTEMS      ████████████████░░░░</code></pre>
 
 Web applications  
 Python utilities  
@@ -128,4 +125,3 @@ Some turn into tools. Some stay experiments.
 <sub>systems • code • automation • experiments</sub>
 
 </div>
-```
