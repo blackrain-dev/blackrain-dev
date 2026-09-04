@@ -2,98 +2,104 @@
 
 # BLACKRAIN
 
-**Developer · Builder · Problem Solver**
+### `developer / builder / learner`
 
-`blackrain-dev`
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackrain-dev)
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=turning+ideas+into+code.;building+things+from+scratch.;learning+by+doing.;one+project+at+a+time." />
 
 </div>
 
 ---
 
-## About
+## `about`
+
+I'm a developer who enjoys building things from scratch.
+
+I work across web development, automation, Python, Telegram bots,
+databases and system-level experiments.
+
+I learn best when I'm actually building something.
+
+---
+
+## `languages`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,cs,java,bash&perline=10" />
+
+</div>
+
+---
+
+## `tools`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,sqlite&perline=6" />
+
+</div>
+
+---
+
+## `focus`
 
 ```text
-I build things because I want to understand how they work.
-
-Web applications.
-Automation.
-Telegram bots.
-Python tools.
-Systems and experiments.
-
-Still learning. Still building.
+WEB              frontend / backend / applications
+AUTOMATION       scripts / workflows / tools
+TELEGRAM         bots / management / automation
+PYTHON           utilities / projects / experiments
+DATABASE         SQL / MySQL / SQLite
+SYSTEMS          Linux / CLI / environments
 
 ---
 
-Tech
+"now"
 
-Languages
-
-"HTML" "CSS" "JavaScript" "Python" "PHP" "C" "C++" "C#" "Java" "SQL" "Bash"
-
-Tools & Technologies
-
-"Git" "GitHub" "Linux" "VS Code" "Termux" "MySQL" "SQLite"
+learning      ████████████████████
+building      ███████████████████░
+experimenting ██████████████████░░
+improving     ████████████████████
 
 ---
 
-What I Do
+"github"
 
-Area| Focus
-Web| Frontend · Backend · Web Applications
-Python| Automation · Tools · Utilities
-Telegram| Bots · Automation · Management
-Systems| Linux · CLI · Experiments
-Database| SQL · MySQL · SQLite
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=blackrain-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true" /><br><br>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrain-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=8" /></div>---
 
-Currently
+"projects"
 
-[+] learning
-[+] building
-[+] experimenting
-[+] debugging
-[+] improving
+I build projects to solve problems, automate repetitive work,
+and sometimes just to see what I can make.
 
-status: online
+"→ explore my repositories" (https://github.com/blackrain-dev?tab=repositories)
 
 ---
 
-Projects
+"terminal"
 
-I prefer building real things over collecting tutorials.
+blackrain@github:~$ status
 
-Some projects are polished.
+system      : online
+workspace   : active
+mindset     : building
+next        : unknown
 
-Some are experiments.
-
-Some exist simply because I wanted to know:
-
-""Can I build this myself?""
-
-→ "View my repositories" (https://github.com/blackrain-dev?tab=repositories)
+blackrain@github:~$ _
 
 ---
 
-GitHub
+<div align="center">"BLACKRAIN"
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=blackrain-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" width="420"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrain-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" width="320"></div>---
+"build quietly. keep learning."
 
-Mindset
+<br><sub>© 2026 blackrain-dev</sub>
 
-learn → build → break → understand → rebuild
-
-«Good code isn't written once.
-It's improved over time.»
-
----
-
-<div align="center">BLACKRAIN
-
-"build quietly."
-
-</div><!--
-blackrain-dev
-nothing here is finished.
--->
+</div>
