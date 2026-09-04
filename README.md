@@ -1,114 +1,108 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=170&section=header&text=BLACKRAIN&fontSize=55&fontColor=ffffff&fontAlignY=50&desc=DEVELOPER%20%2F%2F%20BUILDER&descSize=15&descAlignY=75"/>
+# BLACKRAIN
+
+`developer · builder · always learning`
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=building+ideas+into+reality.;writing+code+after+midnight.;learning+something+new+every+day.;welcome+to+BLACKRAIN." />
-
-<br><br>
-
-`blackrain-dev`
+[![GitHub](https://img.shields.io/badge/github-000?style=flat-square&logo=github&logoColor=fff)](https://github.com/blackrain-dev)
 
 </div>
 
 ---
 
-<h3 align="center">ABOUT</h3>
-
-<p align="center">
-I build software, experiment with ideas and learn by creating.<br>
-My favorite part of development is turning a simple idea into something real.
-</p>
-
-<br>
-
-<div align="center">
-
-`CODE` &nbsp; `BUILD` &nbsp; `BREAK` &nbsp; `DEBUG` &nbsp; `REBUILD`
-
-</div>
-
----
-
-<h3 align="center">TECHNOLOGIES</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,cs,java,bash,git,github,linux,vscode,mysql,sqlite&perline=8" />
-
-</div>
-
----
-
-<h3 align="center">WHAT I BUILD</h3>
-
-<div align="center">
-
-| AREA | FOCUS |
-| :---: | :--- |
-| `WEB` | Websites • Frontend • Backend |
-| `PYTHON` | Automation • Tools • Utilities |
-| `TELEGRAM` | Bots • Automation • Management |
-| `SYSTEM` | CLI • Linux • Experiments |
-| `DATABASE` | SQL • MySQL • SQLite |
-| `OTHER` | Ideas • Experiments • Random Projects |
-
-</div>
-
----
-
-<h3 align="center">CURRENTLY</h3>
+### /about
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  > learning                                          │
-│  > building                                          │
-│  > experimenting                                     │
-│  > improving                                         │
-│                                                      │
-│  status: ONLINE                                      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+blackrain@github:~$ whoami
 
----
-
-<h3 align="center">GITHUB</h3><div align="center"><a href="https://github.com/blackrain-dev">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=blackrain-dev&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&rank_icon=github" />
-</a><a href="https://github.com/blackrain-dev">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrain-dev&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=AAAAAA" />
-</a><br><br>
-
-<img src="https://streak-stats.demolab.com?user=blackrain-dev&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666" /></div>---
-
-<h3 align="center">MINDSET</h3><div align="center">┌─────────────────────────────────────────────┐
-│                                             │
-│       "BUILD SOMETHING WORTH KEEPING."      │
-│                                             │
-│                    — BLACKRAIN              │
-│                                             │
-└─────────────────────────────────────────────┘
-
-</div>---
-
-<h3 align="center">TERMINAL</h3>blackrain@github:~$ ./start
-
-[+] loading profile...
-[+] loading projects...
-[+] loading skills...
-[+] loading ideas...
-
-[✓] system online
+developer
+building things from ideas
+learning by breaking things
+interested in code, systems and automation
 
 blackrain@github:~$ _
 
+I like making things from scratch.
+
+Sometimes it's a useful project.
+Sometimes it's just an experiment that gets out of control.
+
+Either way, I learn something from it.
+
 ---
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=90&section=footer&text=BLACKRAIN&fontSize=22&fontColor=ffffff&fontAlignY=55"/>"blackrain-dev"
+/stack
+
+languages
+
+"HTML" "CSS" "JavaScript" "Python" "PHP" "C" "C++" "C#" "Java" "SQL" "Bash"
+
+tools
+
+"Git" "GitHub" "Linux" "VS Code" "Termux" "MySQL" "SQLite"
+
+---
+
+/focus
+
+web development       ████████████████░░░░
+automation             █████████████████░░░
+telegram systems       ██████████████████░░
+python tools           █████████████████░░░
+databases              ███████████████░░░░░
+experiments            ████████████████████
+
+---
+
+/projects
+
+Most of the interesting stuff lives in my repositories.
+
+01  automation
+02  bots
+03  web projects
+04  python tools
+05  system experiments
+06  things built just to see if I could
+
+→ "explore repositories" (https://github.com/blackrain-dev?tab=repositories)
+
+---
+
+/currently
+
+while True:
+    learn()
+    build()
+    break_something()
+    understand()
+    rebuild()
+
+---
+
+/github
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=blackrain-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b8b&icon_color=ffffff&rank_icon=github" height="160"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrain-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b8b" height="160"></div>---
+
+/log
+
+[00:00] idea
+[00:17] prototype
+[01:42] something broke
+[02:10] found the problem
+[03:04] fixed it
+[03:05] new problem
+
+---
+
+<div align="center">"BLACKRAIN"
+
+<br><sub>build quietly. leave something behind.</sub>
 
 </div><!--
-    BLACKRAIN // DEV
-    keep building.
+    blackrain-dev
+    no noise.
+    just code.
 -->
-### چرا این یکی بهتره؟
