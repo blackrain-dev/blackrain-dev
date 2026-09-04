@@ -2,107 +2,98 @@
 
 # BLACKRAIN
 
-`developer · builder · always learning`
+**Developer · Builder · Problem Solver**
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/github-000?style=flat-square&logo=github&logoColor=fff)](https://github.com/blackrain-dev)
+`blackrain-dev`
 
 </div>
 
 ---
 
-### /about
+## About
 
 ```text
-blackrain@github:~$ whoami
+I build things because I want to understand how they work.
 
-developer
-building things from ideas
-learning by breaking things
-interested in code, systems and automation
+Web applications.
+Automation.
+Telegram bots.
+Python tools.
+Systems and experiments.
 
-blackrain@github:~$ _
-
-I like making things from scratch.
-
-Sometimes it's a useful project.
-Sometimes it's just an experiment that gets out of control.
-
-Either way, I learn something from it.
+Still learning. Still building.
 
 ---
 
-/stack
+Tech
 
-languages
+Languages
 
 "HTML" "CSS" "JavaScript" "Python" "PHP" "C" "C++" "C#" "Java" "SQL" "Bash"
 
-tools
+Tools & Technologies
 
 "Git" "GitHub" "Linux" "VS Code" "Termux" "MySQL" "SQLite"
 
 ---
 
-/focus
+What I Do
 
-web development       ████████████████░░░░
-automation             █████████████████░░░
-telegram systems       ██████████████████░░
-python tools           █████████████████░░░
-databases              ███████████████░░░░░
-experiments            ████████████████████
-
----
-
-/projects
-
-Most of the interesting stuff lives in my repositories.
-
-01  automation
-02  bots
-03  web projects
-04  python tools
-05  system experiments
-06  things built just to see if I could
-
-→ "explore repositories" (https://github.com/blackrain-dev?tab=repositories)
+Area| Focus
+Web| Frontend · Backend · Web Applications
+Python| Automation · Tools · Utilities
+Telegram| Bots · Automation · Management
+Systems| Linux · CLI · Experiments
+Database| SQL · MySQL · SQLite
 
 ---
 
-/currently
+Currently
 
-while True:
-    learn()
-    build()
-    break_something()
-    understand()
-    rebuild()
+[+] learning
+[+] building
+[+] experimenting
+[+] debugging
+[+] improving
 
----
-
-/github
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=blackrain-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b8b&icon_color=ffffff&rank_icon=github" height="160"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrain-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b8b" height="160"></div>---
-
-/log
-
-[00:00] idea
-[00:17] prototype
-[01:42] something broke
-[02:10] found the problem
-[03:04] fixed it
-[03:05] new problem
+status: online
 
 ---
 
-<div align="center">"BLACKRAIN"
+Projects
 
-<br><sub>build quietly. leave something behind.</sub>
+I prefer building real things over collecting tutorials.
+
+Some projects are polished.
+
+Some are experiments.
+
+Some exist simply because I wanted to know:
+
+""Can I build this myself?""
+
+→ "View my repositories" (https://github.com/blackrain-dev?tab=repositories)
+
+---
+
+GitHub
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=blackrain-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" width="420"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrain-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" width="320"></div>---
+
+Mindset
+
+learn → build → break → understand → rebuild
+
+«Good code isn't written once.
+It's improved over time.»
+
+---
+
+<div align="center">BLACKRAIN
+
+"build quietly."
 
 </div><!--
-    blackrain-dev
-    no noise.
-    just code.
+blackrain-dev
+nothing here is finished.
 -->
