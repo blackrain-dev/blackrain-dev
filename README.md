@@ -1,129 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=180&section=header&text=BLACKRAIN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=170&section=header&text=BLACKRAIN&fontSize=55&fontColor=ffffff&fontAlignY=50&desc=DEVELOPER%20%2F%2F%20BUILDER&descSize=15&descAlignY=75"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+things+that+shouldn't+exist.;Turning+ideas+into+code.;Learning.+Breaking.+Rebuilding.;Welcome+to+my+side+of+the+internet." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=building+ideas+into+reality.;writing+code+after+midnight.;learning+something+new+every+day.;welcome+to+BLACKRAIN." />
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackrain-dev)
+`blackrain-dev`
 
 </div>
 
 ---
 
-## 01 — about me
+<h3 align="center">ABOUT</h3>
 
-`text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  BLACKRAIN                                                   │
-│                                                              │
-│  Developer focused on building, experimenting and learning. │
-│                                                              │
-│  I like turning ideas into real projects and understanding   │
-│  what happens behind the interface.                          │
-│                                                              │
-│  No perfect code.                                             │
-│  No perfect projects.                                         │
-│  Just constant improvement.                                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+<p align="center">
+I build software, experiment with ideas and learn by creating.<br>
+My favorite part of development is turning a simple idea into something real.
+</p>
+
+<br>
+
+<div align="center">
+
+`CODE` &nbsp; `BUILD` &nbsp; `BREAK` &nbsp; `DEBUG` &nbsp; `REBUILD`
+
+</div>
 
 ---
 
-"02" — tech stack
+<h3 align="center">TECHNOLOGIES</h3>
 
-<div align="center">Languages
+<div align="center">
 
-"HTML5" (https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-"PHP" (https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white)
-"C" (https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
-"C++" (https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
-"C#" (https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-"SQL" (https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-"Bash" (https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,cs,java,bash,git,github,linux,vscode,mysql,sqlite&perline=8" />
 
-Tools
+</div>
 
-"Git" (https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-"Termux" (https://img.shields.io/badge/Termux-111111?style=for-the-badge&logo=termux&logoColor=white)
+---
+
+<h3 align="center">WHAT I BUILD</h3>
+
+<div align="center">
+
+| AREA | FOCUS |
+| :---: | :--- |
+| `WEB` | Websites • Frontend • Backend |
+| `PYTHON` | Automation • Tools • Utilities |
+| `TELEGRAM` | Bots • Automation • Management |
+| `SYSTEM` | CLI • Linux • Experiments |
+| `DATABASE` | SQL • MySQL • SQLite |
+| `OTHER` | Ideas • Experiments • Random Projects |
+
+</div>
+
+---
+
+<h3 align="center">CURRENTLY</h3>
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  > learning                                          │
+│  > building                                          │
+│  > experimenting                                     │
+│  > improving                                         │
+│                                                      │
+│  status: ONLINE                                      │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+
+---
+
+<h3 align="center">GITHUB</h3><div align="center"><a href="https://github.com/blackrain-dev">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blackrain-dev&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&rank_icon=github" />
+</a><a href="https://github.com/blackrain-dev">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrain-dev&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=AAAAAA" />
+</a><br><br>
+
+<img src="https://streak-stats.demolab.com?user=blackrain-dev&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666" /></div>---
+
+<h3 align="center">MINDSET</h3><div align="center">┌─────────────────────────────────────────────┐
+│                                             │
+│       "BUILD SOMETHING WORTH KEEPING."      │
+│                                             │
+│                    — BLACKRAIN              │
+│                                             │
+└─────────────────────────────────────────────┘
 
 </div>---
 
-"03" — what I build
+<h3 align="center">TERMINAL</h3>blackrain@github:~$ ./start
 
-  AUTOMATION       ████████████████████░░
-  TELEGRAM BOTS    ██████████████████░░░░
-  WEB DEVELOPMENT  █████████████████░░░░░
-  PYTHON TOOLS     ███████████████████░░░
-  SYSTEM TOOLS     ███████████████░░░░░░
-  EXPERIMENTS      ██████████████████████
-
-«Most of my projects start with one simple question:
-"Can I build it myself?"»
-
----
-
-"04" — current mindset
-
-while True:
-    learn()
-    build()
-    break_things()
-    understand()
-    rebuild()
-
----
-
-"05" — github
-
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=blackrain-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff&ring_color=ffffff" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrain-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" /><br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=blackrain-dev&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&dates=666666&currStreakNum=ffffff&sideNums=ffffff" /></div>---
-
-"06" — philosophy
-
-<div align="center">"I don't chase perfection.
- I chase progress."
-
-                    — BLACKRAIN
-
-</div>---
-
-"07" — terminal
-
-┌──[blackrain@github]─[~]
-└─$ ./blackrain
-
-[+] initializing...
-[+] loading skills...
+[+] loading profile...
 [+] loading projects...
+[+] loading skills...
 [+] loading ideas...
-[+] system ready.
+
+[✓] system online
 
 blackrain@github:~$ _
 
 ---
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:111111,100:000000&height=100&section=footer" />"BLACKRAIN"
-
-"build in silence."
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=90&section=footer&text=BLACKRAIN&fontSize=22&fontColor=ffffff&fontAlignY=55"/>"blackrain-dev"
 
 </div><!--
     BLACKRAIN // DEV
-
-    If you're reading this,
-    you're already inside the system.
-
-    Keep building.
+    keep building.
 -->
+### چرا این یکی بهتره؟
