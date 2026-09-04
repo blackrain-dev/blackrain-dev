@@ -1,254 +1,129 @@
 <div align="center">
 
-# BLACKRAIN
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=180&section=header&text=BLACKRAIN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descSize=16" />
 
-### DEVELOPER // BUILDER // PROBLEM SOLVER
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+things+that+shouldn't+exist.;Turning+ideas+into+code.;Learning.+Breaking.+Rebuilding.;Welcome+to+my+side+of+the+internet." />
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackrain-dev)
+
+</div>
+
+---
+
+## 01 — about me
 
 `text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   ██████╗ ██╗      █████╗  ██████╗██╗  ██╗██████╗  █████╗ ║
-║   ██╔══██╗██║     ██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗║
-║   ██████╔╝██║     ███████║██║     █████╔╝ ██████╔╝███████║ ║
-║   ██╔══██╗██║     ██╔══██║██║     ██╔═██╗ ██╔══██╗██╔══██║║
-║   ██████╔╝███████╗██║  ██║╚██████╗██║  ██╗██████╔╝██║  ██║║
-║   ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝║
-║                                                            ║
-║                    SYSTEM // ONLINE                        ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  BLACKRAIN                                                   │
+│                                                              │
+│  Developer focused on building, experimenting and learning. │
+│                                                              │
+│  I like turning ideas into real projects and understanding   │
+│  what happens behind the interface.                          │
+│                                                              │
+│  No perfect code.                                             │
+│  No perfect projects.                                         │
+│  Just constant improvement.                                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-"code in silence. let the system speak."
+---
+
+"02" — tech stack
+
+<div align="center">Languages
+
+"HTML5" (https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+"PHP" (https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white)
+"C" (https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
+"C++" (https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
+"C#" (https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+"SQL" (https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+"Bash" (https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white)
+
+Tools
+
+"Git" (https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+"Linux" (https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+"Termux" (https://img.shields.io/badge/Termux-111111?style=for-the-badge&logo=termux&logoColor=white)
 
 </div>---
 
-"whoami"
+"03" — what I build
 
-$ whoami
-blackrain
+  AUTOMATION       ████████████████████░░
+  TELEGRAM BOTS    ██████████████████░░░░
+  WEB DEVELOPMENT  █████████████████░░░░░
+  PYTHON TOOLS     ███████████████████░░░
+  SYSTEM TOOLS     ███████████████░░░░░░
+  EXPERIMENTS      ██████████████████████
 
-$ role
-developer
-
-$ status
-ONLINE
-
-$ mode
-BUILDING
-
-$ philosophy
-BUILD > BREAK > LEARN > REPEAT
-
-I build software, experiment with ideas, and learn by making things.
-
-Most of my projects start as an idea, become a problem,
-and eventually turn into something that works.
-
-I like understanding how things work under the hood,
-not just knowing how to use them.
+«Most of my projects start with one simple question:
+"Can I build it myself?"»
 
 ---
 
-"languages"
+"04" — current mindset
 
-01  HTML
-02  CSS
-03  JavaScript
-04  Python
-05  PHP
-06  C
-07  C+
-08  C++
-09  C#
-10  Java
-11  SQL
-12  Bash
-
-«"different languages. same mindset."»
+while True:
+    learn()
+    build()
+    break_things()
+    understand()
+    rebuild()
 
 ---
 
-"stack"
+"05" — github
 
-WEB
-├── HTML
-├── CSS
-├── JavaScript
-└── PHP
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=blackrain-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff&ring_color=ffffff" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrain-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" /><br><br>
 
-PROGRAMMING
-├── Python
-├── C
-├── C++
-├── C#
-└── Java
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=blackrain-dev&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&dates=666666&currStreakNum=ffffff&sideNums=ffffff" /></div>---
 
-DATABASE
-├── SQL
-├── MySQL
-└── SQLite
+"06" — philosophy
 
-SYSTEM
-├── Linux
-├── Windows
-├── Bash
-└── Git
+<div align="center">"I don't chase perfection.
+ I chase progress."
 
-TOOLS
-├── GitHub
-├── VS Code
-└── Termux
+                    — BLACKRAIN
+
+</div>---
+
+"07" — terminal
+
+┌──[blackrain@github]─[~]
+└─$ ./blackrain
+
+[+] initializing...
+[+] loading skills...
+[+] loading projects...
+[+] loading ideas...
+[+] system ready.
+
+blackrain@github:~$ _
 
 ---
 
-"what_i_build"
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:111111,100:000000&height=100&section=footer" />"BLACKRAIN"
 
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  [01] AUTOMATION                                    │
-│      scripts / tools / workflows                    │
-│                                                     │
-│  [02] TELEGRAM                                      │
-│      bots / automation / management systems         │
-│                                                     │
-│  [03] WEB                                            │
-│      websites / backend / experiments               │
-│                                                     │
-│  [04] PYTHON                                        │
-│      utilities / automation / custom tools          │
-│                                                     │
-│  [05] SYSTEM                                        │
-│      low-level experiments / CLI / environments    │
-│                                                     │
-│  [06] RANDOM                                        │
-│      ideas that probably shouldn't work             │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-
----
-
-"current.exe"
-
-class BlackRain:
-
-    def init(self):
-        self.name = "blackrain"
-        self.mode = "dark"
-        self.status = "learning"
-
-    def learn(self):
-        pass
-
-    def build(self):
-        pass
-
-    def experiment(self):
-        pass
-
-    def improve(self):
-        pass
-
-    def run(self):
-        while True:
-            self.learn()
-            self.build()
-            self.experiment()
-            self.improve()
-
-
-if name == "main":
-    BlackRain().run()
-
----
-
-"philosophy"
-
-I don't need to know everything.
-
-I need to know how to find the answer.
-
-I don't fear errors.
-
-Errors are information.
-
-Every broken project teaches something
-the successful one never could.
-
----
-
-"terminal.log"
-
-$ git status
-
-On branch blackrain
-
-Changes not staged for commit:
-
-    modified:   skills
-    modified:   knowledge
-    modified:   experience
-
-Untracked files:
-
-    new_ideas/
-    unfinished_projects/
-    random_experiments/
-
-nothing is finished.
-
----
-
-"activity"
-
-[+] learning
-[+] coding
-[+] building
-[+] debugging
-[+] experimenting
-[+] improving
-
-[?] sleep
-
----
-
-"projects"
-
-I keep my projects here:
-
-github.com/blackrain-dev
-
-Some are serious.
-
-Some are experiments.
-
-Some started because I wanted to know:
-
-«"What happens if I try this?"»
-
----
-
-"contact"
-
-GitHub
-└── blackrain-dev
-
----
-
-<div align="center">╔════════════════════════════════════════════════════╗
-║                                                    ║
-║              BLACKRAIN // DEV                     ║
-║                                                    ║
-║                 SYSTEM ONLINE                     ║
-║                                                    ║
-║       BUILD SOMETHING. BREAK SOMETHING.           ║
-║              LEARN FROM BOTH.                     ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-
-"// end of transmission"
+"build in silence."
 
 </div><!--
-    BLACKRAIN
-    built from scratch.
-    no template.
-    no noise.
+    BLACKRAIN // DEV
+
+    If you're reading this,
+    you're already inside the system.
+
+    Keep building.
+-->
