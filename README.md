@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:050505,100:0a0a0a&text=BLACKRAIN&fontSize=54&fontColor=f0f0f0&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20BUILDER&descSize=13&descColor=666666&descAlignY=60" width="100%" alt="BLACKRAIN">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,30:0a0a0a,70:111111,100:1a1a1a&text=BLACKRAIN&fontSize=56&fontColor=e8e8e8&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20BUILDER&descSize=13&descColor=6b6b6b&descAlignY=58" width="100%" alt="BLACKRAIN">
 
 <br>
 
@@ -114,7 +114,7 @@ Some turn into tools. Some stay experiments.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0a0a0a,50:050505,100:000000&section=footer" width="100%" alt="footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a1a1a,50:0a0a0a,100:000000&section=footer" width="100%" alt="footer">
 
 <br>
 
