@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000000,50:050505,100:0d0d0d&text=BLACKRAIN&fontSize=54&fontColor=f0f0f0&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20BUILDER&descSize=13&descColor=666666&descAlignY=60" width="100%" alt="BLACKRAIN">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:050505,100:0a0a0a&text=BLACKRAIN&fontSize=54&fontColor=f0f0f0&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20BUILDER&descSize=13&descColor=666666&descAlignY=60" width="100%" alt="BLACKRAIN">
 
 <br>
 
@@ -27,11 +27,11 @@ Prefer understanding how things work under the surface, then making them better.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,cs,java,bash&perline=10&theme=dark" alt="Languages">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,cs,java,bash&perline=10" alt="Languages">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,sqlite,terminal&perline=7&theme=dark" alt="Tools">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,sqlite,terminal&perline=7" alt="Tools">
 
 </div>
 
@@ -114,7 +114,7 @@ Some turn into tools. Some stay experiments.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d0d0d,50:050505,100:000000&section=footer" width="100%" alt="footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0a0a0a,50:050505,100:000000&section=footer" width="100%" alt="footer">
 
 <br>
 
